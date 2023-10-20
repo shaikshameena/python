@@ -2,6 +2,7 @@ number1 = 24
 number2 = 4
 print("number1 = ", number1)
 print("number2 = ", number2)
+#bitwise operations
 bitwiseAND = number1 & number2
 bitwiseOR = number1 | number2
 bitwiseNOT = ~number1
