@@ -1,3 +1,4 @@
+# accessing string elements
 string1 = 'hello'
 string2 = ''' qualizeal 
               quality is
