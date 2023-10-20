@@ -1,3 +1,4 @@
+# mutable operations
 variable = {10, "abcd", 7.8, "vcd", 21}
 print(variable)
 variable.add("abdr")
