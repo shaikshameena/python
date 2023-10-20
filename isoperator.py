@@ -9,7 +9,7 @@ else:
 	print("False")
 
 # case 2
-if (list1 is list2):
+if (list1 is list2): #is operator
 	print("True")
 else:
 	print("False")
