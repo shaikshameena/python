@@ -1,6 +1,7 @@
 number1 = 10
 number2 = 20
 number3 = 30
+# logical operators
 if number1 > 0 and number2 > 0 :
     print("number1 and number2 greater than zero")
 if number1 > 0 and number2 > 0 and number3 > 0 :
