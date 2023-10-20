@@ -1,5 +1,6 @@
 number1 = 10
 number2 = 20
+# all arithmetic functions
 addition = number1 + number2
 subtraction = number1 - number2
 multiplication = number1 * number2
