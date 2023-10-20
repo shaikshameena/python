@@ -1,3 +1,4 @@
+# adding items in tuple
 tuple1 = (10, 20, 30, 40, "ab")
 print(tuple1)
 tuple2 = ("a", "b", 7.8, 7, 9)
