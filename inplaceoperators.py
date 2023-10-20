@@ -20,7 +20,7 @@ print ("Value after adding using normal operator : ",end="")
 print (result3)
 print ("Value of first argument using normal operator : ",end="")
 print (number1)
-result4 = operator.iadd(list1,[1, 2, 3])
+result4 = operator.iadd(list1,[1, 2, 3]) #inplace operator
 print ("Value after adding using Inplace operator : ",end="")
 print (result4)
 print ("Value of first argument using Inplace operator : ",end="")
