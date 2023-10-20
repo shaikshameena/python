@@ -1,4 +1,4 @@
-def student(firstname,lastname) :
+def student(firstname,lastname) : #keyword argument 
     print(firstname, lastname)
 
 student(firstname = 'shameena', lastname = 'shaik')
