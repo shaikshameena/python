@@ -1,6 +1,6 @@
 variable = {10, 30, "abcd", 10, 20}
 print(variable)
-print(variable.pop())
+print(variable.pop()) # pop function
 print(variable)
 print(variable.pop())
 print(variable)
