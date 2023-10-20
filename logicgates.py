@@ -125,3 +125,4 @@ if __name__=='__main__':
 	print(" A = True, B = False | A XNOR B =",XNOR(True,False)," | ")
 	print(" A = True, B = True | A XNOR B =",XNOR(True,True)," | ")
 
+
