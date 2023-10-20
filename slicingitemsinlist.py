@@ -3,7 +3,7 @@ print(list1)
 slicedlist = list1[2 : ]
 print(slicedlist)
 list2 = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
-slicedlist2 = slice(1, 3)
+slicedlist2 = slice(1, 3) # slice function
 print(list2[slicedlist2])
 list3 = [10, 20, 30, 40, 50, 60, 70, 80]
 print(list3)
