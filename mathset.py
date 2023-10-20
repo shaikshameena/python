@@ -7,6 +7,7 @@ variable3 = {1, 2, 3, 49, "abdr", 9.8}
 print(variable3)
 variable4 = {10, 20, 30, 49, "abdr", 9.8,"sham",7,5}
 print(variable4)
+# math functions
 print(variable3.intersection(var4))
 print(variable1 & variable3)
 print(variable1 | variable3)
