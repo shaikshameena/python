@@ -1,3 +1,4 @@
+# adding items in set using add function
 set1 = {10, "AB",7.9,'Y'}
 print(type(set1))
 print(set1)
