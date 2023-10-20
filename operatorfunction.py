@@ -2,6 +2,7 @@ import operator
 
 number1 = 4
 number2 = 3
+# opertor functions
 print ("The addition of numbers is :",end="");
 print (operator.add(number1, number2))
 print ("The difference of numbers is :",end="");

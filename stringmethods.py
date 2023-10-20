@@ -49,3 +49,4 @@ title = string5.title()
 print("title = ", title)
 #check each index value if given substring is present or not
 print(string1.index("to"))
+

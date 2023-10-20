@@ -1,5 +1,6 @@
 number1 = 10
 number2 = 20
+# relational operators
 greater = number1 > number2
 lesser = number1 < number2
 equalto = number1 == number2

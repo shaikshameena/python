@@ -7,4 +7,5 @@ print("both are equal " if number1 == number2 else "number1 greater than number2
 print((number2, number1) [number1 < number2])
 print({True : number1, False : number2} [ number1 < number2])
 print((lambda : number2, lambda : number1) [number1 < number2]())
+#ternay opertor
 print("number1 is greater") if number1 > number2 else print("number2 is greater")

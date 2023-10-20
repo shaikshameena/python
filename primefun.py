@@ -10,4 +10,4 @@ def is_prime(number):
       number += 2
       return True
 
-print(is_prime(78), is_prime(79))
+print(is_prime(78), is_prime(79)) # function call

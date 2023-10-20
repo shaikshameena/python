@@ -1,2 +1,2 @@
-number = input("enter multiple values:").split()
+number = input("enter multiple values:").split() #split function
 print("numbers are:", number)
