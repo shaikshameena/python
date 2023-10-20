@@ -1,3 +1,4 @@
+# accessing key and values
 variable = {"name" : "abdr", "age" : 23, "username" : "abdr"}
 print(variable)
 variable["age"] = 25
