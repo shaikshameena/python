@@ -1,7 +1,7 @@
 def overlapping(list1, list2):
     number1 = 0
     number2 = 0
-    for initial in list1:
+    for initial in list1: 
         number1 += 1
     for initial in list2:
         number2 += 1
@@ -20,7 +20,7 @@ if overlapping(list1, list2):
     print("overlapping")
 else:
     print("not overlapping")
-if number1  not in list1 :
+if number1  not in list1 : # identity operator
     print("number1 is not present in list1")
 else :
     print("number1 is present in list1")
