@@ -4,4 +4,4 @@ def evenorodd(number):
         print("even")
     else:
         print("odd")
-print(evenorodd.__doc__)
+print(evenorodd.__doc__) # function call
