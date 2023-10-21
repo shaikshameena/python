@@ -3,7 +3,7 @@ string1 = 'hello'
 string2 = ''' qualizeal 
               quality is
               core'''
-string3 = "abdr"
+string3 = "abdr8"
 print(string1[-1])
 print(string1[3])
 print(string2[6])
