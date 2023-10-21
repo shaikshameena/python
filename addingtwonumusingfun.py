@@ -4,5 +4,5 @@ def addition(number1 : int, number2 : int) -> int :
     return result
   
 number1, number2 = 19, 12
-result = addition(number1, number2)
+result = addition(number1, number2) # calling function
 print("addition of two numbers = ", result)
