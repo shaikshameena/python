@@ -5,3 +5,4 @@ print(list1[4])
 print(type(list1))
 print(list1[2])
 print(type(list2))
+
