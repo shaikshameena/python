@@ -10,7 +10,7 @@ variable1 = {"name" : "sham"}
 print(variable1)
 print(variable1.pop("name"))
 print(variable1)
-variable2 = {"Name" : "shame", "age" : 23, "Name" : "sham"}
+variable2 = {"Name" : "shame", "age" : 25, "Name" : "sham"}
 print(variable2)
 for key, values in variable2.items():
     print(key, values, sep = " - ")
