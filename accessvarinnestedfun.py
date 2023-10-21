@@ -1,5 +1,5 @@
 def outerfunction() :
-    string = "qualizeal"
+    string = "qualizeal company"
 
     def innerfunction() :
         print(string)
