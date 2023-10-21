@@ -2,6 +2,7 @@ number1 = 10
 number2 = 20
 print(number1)
 print(number2)
+
 # assignment operators
 number1 &= number2
 print(" bitwiseAND = ",number1)
