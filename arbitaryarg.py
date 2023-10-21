@@ -2,7 +2,7 @@
 def myfun(*argv) :
     for arg in argv :
         print(arg)
-myfun("iam", "shameena", "working in qualizeal")
+myfun("iam", "shameena ", "working in qualizeal")
 
 # *kwargs for variable number of keyword arguments
 def myfun(**kwargs) :
