@@ -4,7 +4,7 @@ divisor = 6.7
 divident = 2
 print("quoitent =",number1 // number2)
 print("quoitent = ", divisor // divident)
-print(- 5 // 2) # floor division
+print(- 5 // 2)  # floor division
 print( 5 // 2)
 print (5.0/2)
 print (-5.0/2)
