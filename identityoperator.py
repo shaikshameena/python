@@ -20,7 +20,7 @@ if overlapping(list1, list2):
     print("overlapping")
 else:
     print("not overlapping")
-if number1  not in list1 : # identity operator
+if number1  not in list1 : #identity operator
     print("number1 is not present in list1")
 else :
     print("number1 is present in list1")
