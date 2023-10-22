@@ -3,5 +3,5 @@ def evenorodd(number):
         print("even")
     else:
         print("odd")
-evenorodd(12) # function call
+evenorodd(12) #function call
 evenorodd(90)
