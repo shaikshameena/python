@@ -1,4 +1,4 @@
-variable = {10, "abcd", 7.8, "vcd", 21}
+variable = {10, "abcd", 7.8, "sha", 21}
 print(variable)
 variable.add("abdr")
 print(variable)
