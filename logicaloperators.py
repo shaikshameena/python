@@ -1,5 +1,5 @@
 number1 = 10
-number2 = 20
+number2 = 5
 number3 = 30
 if number1 > 0 and number2 > 0 :
     print("number1 and number2 greater than zero")
