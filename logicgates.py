@@ -107,6 +107,7 @@ if __name__=='__main__':
 	print(" A = False, B = True | A NOR B =",NOR(False,True)," | ")
 	print(" A = True, B = False | A NOR B =",NOR(True,False)," | ")
 	print(" A = True, B = True | A NOR B =",NOR(True,True)," | ")
+	
 # working of Not gate
 
 def XNOR(number1,number2):
