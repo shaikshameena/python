@@ -1,3 +1,3 @@
-# declare empty list
+ # declare empty list
 variable = []
 print(type(variable))
